@@ -1,0 +1,37 @@
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe.config
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.pdb
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.AssemblyReference.cache
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.SuggestedBindingRedirects.cache
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmMain.resources
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.Properties.Resources.resources
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.GenerateResource.cache
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.CoreCompileInputs.cache
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.exe
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.pdb
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmLoaiPhong.resources
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmPhong.resources
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmXuLyPhong.resources
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmDichVu.resources
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmThue.resources
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmThuePhong.resources
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmKhachHang.resources
+G:\Elearning\GITHUB\dangthuy83\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmThanhToan.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe.config
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.pdb
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.AssemblyReference.cache
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmMain.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.Properties.Resources.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmDichVu.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmKhachHang.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmLoaiPhong.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmPhong.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmThanhToan.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmThue.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmThuePhong.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.SubForm.frmXuLyPhong.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.GenerateResource.cache
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.CoreCompileInputs.cache
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.exe
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.pdb
