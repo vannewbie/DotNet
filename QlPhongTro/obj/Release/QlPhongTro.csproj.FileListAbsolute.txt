@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Documents\FormC#\QlPhongTro\QlPhongTro\obj\Release\QlPhongTro.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\FormC#\QlPhongTro\QlPhongTro\obj\Release\QlPhongTro.formWindow.FormKhachHang.resources
+C:\Users\ADMIN\OneDrive\Documents\FormC#\QlPhongTro\QlPhongTro\obj\Release\QlPhongTro.FormMain.resources
+C:\Users\ADMIN\OneDrive\Documents\FormC#\QlPhongTro\QlPhongTro\obj\Release\QlPhongTro.formWindow.formLoaiPhong.resources
+C:\Users\ADMIN\OneDrive\Documents\FormC#\QlPhongTro\QlPhongTro\obj\Release\QlPhongTro.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\FormC#\QlPhongTro\QlPhongTro\obj\Release\QlPhongTro.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\FormC#\QlPhongTro\QlPhongTro\obj\Release\QlPhongTro.csproj.CoreCompileInputs.cache
